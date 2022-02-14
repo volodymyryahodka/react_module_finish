@@ -1,0 +1,13 @@
+.GenresListCard {
+	max-width: 100%;
+	margin-bottom: 1.8rem;
+}
+
+.GenresListCard-a{
+	text-align: center;
+	background: #fb5a5a;
+	border-radius: 10px;
+	border: 1px solid white;
+	padding: 3px;
+	margin: 5px;
+}

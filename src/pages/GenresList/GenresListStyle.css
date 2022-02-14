@@ -1,0 +1,14 @@
+.GenresList {
+	display: flex;
+	justify-content: space-between;
+	align-items: flex-start;
+	padding: 5px;
+}
+
+.GenresList-block {
+	width: 20%;
+}
+
+.GenresList-outlet {
+	max-width: 79%;
+}
